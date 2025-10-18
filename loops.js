@@ -1,7 +1,16 @@
-let array = [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 25]
+let array = [10, "test", "palavra", false, 42]
 let x = 0
 
-while (x < array.length) {
-    console.log(array[x])
-    x = x + 1 
-}
+//do {
+//    console.log("Numero de X é: " + x)
+//    console.log("-------------------------------------")
+//    console.log("Valor da posicao é:" + array[x])
+//    console.log("-------------------------------------")
+//
+//    x = x + 1
+//} while(X < array.length)
+
+for(let index = 11; index === 11; index++){
+    console.log("Numero de index é: " + index)
+       
+} 
