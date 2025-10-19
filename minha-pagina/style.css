@@ -1,0 +1,15 @@
+.title-red{
+    color: rgb(255, 0, 0);
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#text-green {
+    color: green;
+}
+
+#text-yellow {
+    color: yellow;
+}
